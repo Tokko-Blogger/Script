@@ -1,0 +1,42 @@
+{
+ "name": "Tokko Realtime Firebase X1",
+ "short_name": "Tokko Realtime X1",
+ "description": "Ini adalah Tokko Realtime Firebase Dari Tokko Blogger",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTLC4ZZbkRXo4ily7oesAAd3wd0m4OlJgG7NsQaejhuZBoVK_1r1JOr_M7KtIxf5XRYxziaZm_Of9i2nhtHdqzA7Iuo-dUEfZXn_kDw7nziU29lKckXzSuywgr21422qyCjsrhvJDyr9C39Wpw-cyqx6qFu7Cwkw9GFJwBN8clwWC1mYiPCsS9YGz_/w800/New%20Tokko%20Blogger.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjYR1SIm0ob9DlEQG0H1AuUnbeLwlm0hcI8ZhYDxvj2YwT91w7_vl71QuozA3x-E8zdnh6Nos98AvLnfeYn9IccRaRD4uRB9CNaGSBvK6VQy2JagVOgpwsfso9Ri6Hr9_YJmHGvty_n2LCSqhaCJ4zDDJK8GC3letEBaDPY46XEIvZTVXVoAAnVzOProq/s1600/20230710_190338.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjYR1SIm0ob9DlEQG0H1AuUnbeLwlm0hcI8ZhYDxvj2YwT91w7_vl71QuozA3x-E8zdnh6Nos98AvLnfeYn9IccRaRD4uRB9CNaGSBvK6VQy2JagVOgpwsfso9Ri6Hr9_YJmHGvty_n2LCSqhaCJ4zDDJK8GC3letEBaDPY46XEIvZTVXVoAAnVzOProq/s1600/20230710_190338.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjYR1SIm0ob9DlEQG0H1AuUnbeLwlm0hcI8ZhYDxvj2YwT91w7_vl71QuozA3x-E8zdnh6Nos98AvLnfeYn9IccRaRD4uRB9CNaGSBvK6VQy2JagVOgpwsfso9Ri6Hr9_YJmHGvty_n2LCSqhaCJ4zDDJK8GC3letEBaDPY46XEIvZTVXVoAAnVzOProq/s1600/20230710_190338.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjYR1SIm0ob9DlEQG0H1AuUnbeLwlm0hcI8ZhYDxvj2YwT91w7_vl71QuozA3x-E8zdnh6Nos98AvLnfeYn9IccRaRD4uRB9CNaGSBvK6VQy2JagVOgpwsfso9Ri6Hr9_YJmHGvty_n2LCSqhaCJ4zDDJK8GC3letEBaDPY46XEIvZTVXVoAAnVzOProq/s1600/20230710_190338.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "https://tokko-realtime-x1.blogspot.com",
+  "screenshots": [{
+     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTLC4ZZbkRXo4ily7oesAAd3wd0m4OlJgG7NsQaejhuZBoVK_1r1JOr_M7KtIxf5XRYxziaZm_Of9i2nhtHdqzA7Iuo-dUEfZXn_kDw7nziU29lKckXzSuywgr21422qyCjsrhvJDyr9C39Wpw-cyqx6qFu7Cwkw9GFJwBN8clwWC1mYiPCsS9YGz_/w800/New%20Tokko%20Blogger.png",
+     "sizes": "1080x2400",
+    "type": "image/jpg"
+  }],
+  "start_url": "https://tokko-realtime-x1.blogspot.com?utm_source=pwa&utm_medium=pwa&utm_campaign=pwa",
+  "theme_color": "#000000"
+}
