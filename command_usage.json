@@ -1,0 +1,93 @@
+{
+    "help": "Opening This Command Detail Page",
+    "nama": {
+        "get": {
+            "description": "See your current username",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "set": {
+            "description": "Set new username for your account",
+            "need_arguments": [true, 1],
+            "need_confirm": false
+        }
+    },
+    "bio": {
+        "get": {
+            "description": "See your current Bio details if it's exists",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "edit": {
+            "description": "Editing your Bio details",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "remove": {
+            "description": "Unset your Bio section",
+            "need_arguments": false,
+            "need_confirm": true
+        }
+    },
+    "realname": {
+        "get": {
+            "description": "See your current Real Name details if it's exists",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "edit": {
+            "description": "Editing your Real Name details And Get Effect On Tokko Realtime X1",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "remove": {
+            "description": "Unset your Real Name section",
+            "need_arguments": false,
+            "need_confirm": true
+        }
+    },
+    "pesan": {
+        "get": {
+            "description": "See your current Pesan details if it's exists",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "edit": {
+            "description": "Editing your Pesan details And Get Effect On Tokko Realtime X1",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "remove": {
+            "description": "Unset your Pesan section",
+            "need_arguments": false,
+            "need_confirm": true
+        }
+    },
+    "website": {
+        "get": {
+            "description": "See your current Website details if it's exists",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "edit": {
+            "description": "Editing your Website details And Get Effect On Tokko Realtime X1",
+            "need_arguments": false,
+            "need_confirm": false
+        },
+        "remove": {
+            "description": "Unset your Website section",
+            "need_arguments": false,
+            "need_confirm": true
+        }
+    },
+    "move": {
+        "description": "Move Out to Tokko Realtime X1 and Logging out On Tokko Chat ",
+        "need_arguments": false,
+        "need_confirm": true
+    },
+    "logout": {
+        "description": "Logging you out from current account",
+        "need_arguments": false,
+        "need_confirm": true
+    }
+}
