@@ -271,7 +271,7 @@ export const botCommand = (currentID) => {
                     commands.last_used = null;
                     line.innerHTML = `Command Detail`;
                     box.appendChild(bot);
-                    window.open(window.location.origin + '/data/helper/command/command_usage.json');
+                    window.open(`https://kirimin.devanka761.my.id/data/helper/command/command_usage.json`);
                 }
             },
             close: {
