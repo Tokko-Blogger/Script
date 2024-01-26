@@ -8,9 +8,7 @@ export const botCommand = (currentID) => {
     let lang;
     const langCheker = async() => {
         let getLang;
-        await fetch(window.location.origin + '/data/js/language.json').then((data) => data.json()).then((res) => {
-            getLang = res;
-        });
+
         let currentLang;
         if(userLocale.state.last_lang == 'indonesia') {
             currentLang = 'indonesia'
@@ -20,7 +18,6 @@ export const botCommand = (currentID) => {
         lang = getLang[currentLang].Bot;
     }
 
-    langCheker();
 
     const app = initializeApp(firebaseConfig);
     const auth = getAuth(app);
