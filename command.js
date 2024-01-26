@@ -123,7 +123,7 @@ export const botCommand = (currentID) => {
         }
 
         Bot.querySelector('.command-close').onclick = () => Bot.remove();
-        Bot.querySelector('.user-bot').onclick = () => window.location.href = window.location.origin + '/user/?gid=bot';
+        Bot.querySelector('.user-bot').onclick = () => window.location.href = window.location.origin + '/p/users.html?gid=bot';
 
         commandListener(message_container, Bot.querySelector('input'), Bot.querySelector('button'), Bot);
 
