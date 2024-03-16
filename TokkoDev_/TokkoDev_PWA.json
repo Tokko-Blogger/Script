@@ -31,7 +31,7 @@
       "type": "image/png"
     }
   ],
-  "scope": "https://tokko-dev.blogspot.com",
+  "scope": "/",
   "screenshots": [{
      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0h8pbqJVKqTG4nueceR4BHIs4X0rxaYCht1F1E2ADCDolibawK0binIDnhOmeEfZsDw0kL6QAkYoBNkiwtZCu-IpqHXtfJdow_eKhxqzPtXPXKZhZh97J2xaN527Xwz7A3qHiaVpYlANAO2e0I-16wG2sl_XH5jYfvOi-EkWrg-Ek1XhZB_TGBUs5fIto/s1600/20240228_191157.jpg",
      "sizes": "1080x2400",
@@ -62,6 +62,6 @@
      "sizes": "1080x2400",
     "type": "image/jpg"
   }],
-  "start_url": "https://tokko-dev.blogspot.com?utm_source=pwa&utm_medium=pwa&utm_campaign=pwa",
+  "start_url": "/?utm_source=pwa&utm_medium=pwa&utm_campaign=pwa",
   "theme_color": "#3366cc"
 }
