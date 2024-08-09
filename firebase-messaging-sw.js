@@ -1,4 +1,4 @@
-const messaging = firebase.messaging();
+const messaging = firebase.messaging(app);
 messaging.onBackgroundMessage(payload => {
     // Customize notification here
     const notificationTitle = "Notification Title";
